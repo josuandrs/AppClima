@@ -41,15 +41,15 @@ export default function Head(props) {
             <div id="cities-list">
               <a href="#" className="p-box">
                 <p>London</p>
-                <img src="/sources/arrow.png" alt="arrow" />
+                <img src="./sources/arrow.png" alt="arrow" />
               </a>
               <a href="#" className="p-box">
                 <p>Barcelona</p>
-                <img src="/sources/arrow.png" alt="arrow" />
+                <img src="./sources/arrow.png" alt="arrow" />
               </a>
               <a href="#" className="p-box">
                 <p>Long Beach</p>
-                <img src="/sources/arrow.png" alt="arrow" />
+                <img src="./sources/arrow.png" alt="arrow" />
               </a>
             </div>
           </div>
@@ -61,12 +61,12 @@ export default function Head(props) {
         <div className="buttons">
           <button onClick={handleNavbar}>Search for places</button>
           <button className="current-location">
-            <img src="sources/current-location-regular-24.png" alt="icon" />
+            <img src="./sources/current-location-regular-24.png" alt="icon" />
           </button>
         </div>
         <div className="img-box">
           <div className="img">
-            <img src="/sources/LightRain.png" alt="main-logo" />
+            <img src="./sources/LightRain.png" alt="main-logo" />
           </div>
         </div>
         <div className="text">

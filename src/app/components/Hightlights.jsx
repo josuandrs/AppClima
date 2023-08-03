@@ -2,7 +2,6 @@
 import React from "react";
 import "./Hightlights.css";
 
-
 export default function Hightlights(props) {
   return (
     <div id="hight">

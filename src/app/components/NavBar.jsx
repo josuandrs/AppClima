@@ -28,15 +28,15 @@ export default function Navbar() {
           <div id="cities-list">
             <a href="#" className="p-box">
               <p>London</p>
-              <img src="/sources/arrow.png" alt="arrow" />
+              <img src="./sources/arrow.png" alt="arrow" />
             </a>
             <a href="#" className="p-box">
               <p>Barcelona</p>
-              <img src="/sources/arrow.png" alt="arrow" />
+              <img src="./sources/arrow.png" alt="arrow" />
             </a>
             <a href="#" className="p-box">
               <p>Long Beach</p>
-              <img src="/sources/arrow.png" alt="arrow" />
+              <img src="./sources/arrow.png" alt="arrow" />
             </a>
           </div>
         </div>
