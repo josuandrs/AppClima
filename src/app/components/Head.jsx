@@ -2,7 +2,6 @@
 import React from "react";
 import "./Head.css";
 import { useState } from "react";
-import Navbar from "./Navbar";
 import "./Navbar.css";
 
 
